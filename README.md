@@ -1,2 +1,3 @@
 # PowerBi_Dashboards
-This is powerBi dashboard project.
+A Project to show case Power Bi skills
+This is powerBi dashboard project
